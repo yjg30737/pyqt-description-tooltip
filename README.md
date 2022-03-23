@@ -7,7 +7,8 @@ PyQt QToolTip that user can add description and so on.
 ## Setup
 ```pip3 install git+https://github.com/yjg30737/pyqt-description-tooltip.git --upgrade```
 
-## Class Overview
+## Usage
+You can get the qt tooltip text using static method below.
 ```python
 DescriptionToolTipGetter.getToolTip(title: str = '', shortcut: str = '', description: str = '', 
 shortcut_color: str = '#AAA', description_color: str = '#AAA')
