@@ -1,9 +1,6 @@
 # pyqt-description-tooltip
 PyQt QToolTip that user can add description and so on.
 
-## Requirements
-* PyQt5 >= 5.8
-
 ## Setup
 ```pip3 install git+https://github.com/yjg30737/pyqt-description-tooltip.git --upgrade```
 
