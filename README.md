@@ -38,6 +38,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     example = MainWindow()
     StyleSetter.setWindowStyle(example)
+    # https://github.com/yjg30737/pyqt-style-setter.git
     example.show()
     app.exec_()
 ```
